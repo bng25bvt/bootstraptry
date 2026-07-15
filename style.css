@@ -1,0 +1,16 @@
+
+.container-fluid {
+    border: 3px solid red;
+}
+
+.big-row {
+    border: 3px solid red;
+    height: 320px;
+    display: flex;
+
+}
+
+.col-1 {
+    border: 3px dotted blue;
+    height: 150px;
+}
