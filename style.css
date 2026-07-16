@@ -3,16 +3,15 @@
     border: 3px solid red;
 }
 
-.custom-asymmetric-grid {
+.top-row, .bottom-row {
     border: 3px solid red;
-    height: 326px;
+    height: 330px;
 
 }
 
-.grid-item {
+.flex-fill {
     border: 3px dotted blue;
     height: 160px;
-
 
 }
 
