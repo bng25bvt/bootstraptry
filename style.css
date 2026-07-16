@@ -3,13 +3,16 @@
     border: 3px solid red;
 }
 
-.big-row {
+.custom-asymmetric-grid {
     border: 3px solid red;
-    height: 320px;
+    height: 326px;
 
 }
 
-.crazy-column-wrap {
+.grid-item {
     border: 3px dotted blue;
-    height: 150px;
+    height: 160px;
+
+
 }
+
