@@ -70,9 +70,28 @@
     box-sizing: border-box;
     border: 3px dotted blue;
     height: 237px;
+    width: 100%;
 
 
 }
 
+.custom-grid-wrap {
+    box-sizing: border-box;
+    border: 3px solid red;
+    height: 480px;
+
+
+
+}
+
+
+.col-6 {
+    box-sizing: border-box;
+    border: 3px dotted blue;
+    height: 158px;
+    width: 100%;
+
+
+}
 
 
